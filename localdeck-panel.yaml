@@ -1,0 +1,276 @@
+type: horizontal-stack
+cards:
+  - type: vertical-stack
+    cards:
+      - type: horizontal-stack
+        cards:
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_19_light
+            icon: mdi:square-outline
+            name: Button 19
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_20_light
+            icon: mdi:square-outline
+            name: Button 20
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_21_light
+            icon: mdi:square-outline
+            name: Button 21
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_22_light
+            icon: mdi:square-outline
+            name: Button 22
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_23_light
+            icon: mdi:square-outline
+            name: Button 23
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_24_light
+            icon: mdi:square-outline
+            name: Button 24
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+      - type: horizontal-stack
+        cards:
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_13_light
+            icon: mdi:square-outline
+            name: Button 13
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_14_light
+            icon: mdi:square-outline
+            name: Button 14
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_15_light
+            icon: mdi:square-outline
+            name: Button 15
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_16_light
+            icon: mdi:square-outline
+            name: Button 16
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_17_light
+            icon: mdi:square-outline
+            name: Button 17
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_18_light
+            icon: mdi:square-outline
+            name: Button 18
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+      - type: horizontal-stack
+        cards:
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_07_light
+            icon: mdi:square-outline
+            name: Button 07
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_08_light
+            icon: mdi:square-outline
+            name: Button 08
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_09_light
+            icon: mdi:square-outline
+            name: Button 09
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_10_light
+            icon: mdi:square-outline
+            name: Button 10
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_11_light
+            icon: mdi:square-outline
+            name: Button 11
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_12_light
+            icon: mdi:square-outline
+            name: Button 12
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+      - type: horizontal-stack
+        cards:
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_01_light
+            icon: mdi:square-outline
+            name: Button 01
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_02_light
+            icon: mdi:square-outline
+            name: Button 02
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_03_light
+            icon: mdi:square-outline
+            name: Button 03
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_04_light
+            icon: mdi:square-outline
+            name: Button 04
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_05_light
+            icon: mdi:square-outline
+            name: Button 05
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
+          - type: custom:button-card
+            entity: light.localdeck_f8ea64_button_06_light
+            icon: mdi:square-outline
+            name: Button 06
+            styles:
+              icon:
+                - color: var(--button-card-light-color)
+              name:
+                - color: var(--button-card-light-color)
+            tap_action:
+              action: more-info
